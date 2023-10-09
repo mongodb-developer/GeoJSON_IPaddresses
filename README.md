@@ -64,4 +64,4 @@ Use MongoDB Compass or other tools to visualize and analyze the results of your 
 
 By combining geospatial and time-based queries, you can address scenarios where you need to consider both location and time when retrieving and analyzing data. This is particularly useful for applications that deal with tracking, monitoring, or analyzing events or objects in both space and time.
 
-![Compass GEO(https://www.google.com/url?sa=i&url=https%3A%2F%2Fravendb.net%2Farticles%2Fat-a-glance-the-guis-of-mongodb-couchdb-and-ravendb&psig=AOvVaw3EawqcTwA4u5Wm_ON5rLw5&ust=1696956747230000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDW2dK26YEDFQAAAAAdAAAAABAE)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fravendb.net%2Farticles%2Fat-a-glance-the-guis-of-mongodb-couchdb-and-ravendb&psig=AOvVaw3EawqcTwA4u5Wm_ON5rLw5&ust=1696956747230000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDW2dK26YEDFQAAAAAdAAAAABAE" alt="Image Alt Text">
