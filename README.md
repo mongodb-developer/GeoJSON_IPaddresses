@@ -1,4 +1,4 @@
-#GeoJSON and Ip Address Use Case
+***GeoJSON and Ip Address Use Case
 POV on how to tie in IP address to location on MongoDB Compass
 
 MongoDB's geospatial queries primarily focus on location-based queries, but you can combine geospatial queries with time-based queries by adding a timestamp or date field to your documents. This allows you to perform spatiotemporal queries that consider both geographic location and time. Here's how you can achieve this:
