@@ -1,4 +1,14 @@
 GeoJSON and Ip Address Use Case
+
+Geolocation Database/Service:
+
+You will need access to a geolocation database or service that can map IP addresses to geographic coordinates (latitude and longitude). There are several such databases and services available, both free and paid. Some popular options include:
+MaxMind GeoIP: MaxMind provides a GeoIP database that you can download and use to map IP addresses to locations.
+
+IPinfo.io: IPinfo.io is a service that offers IP geolocation data through an API. You can make API requests to obtain location information for IP addresses.
+
+GeoLite2: MaxMind's free GeoLite2 database is widely used for IP geolocation.
+
 POV on how to tie in IP address to location on MongoDB Compass
 
 MongoDB's geospatial queries primarily focus on location-based queries, but you can combine geospatial queries with time-based queries by adding a timestamp or date field to your documents. This allows you to perform spatiotemporal queries that consider both geographic location and time. Here's how you can achieve this:
